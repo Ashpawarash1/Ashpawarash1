@@ -9,7 +9,7 @@
   - Microsoft Teams (Tabs, Bots, Message Extensions)
   - SPFx (SharePoint Framework)
 - 🧠 Currently strengthening **React, DSA & System Design**
-- 🎯 Goal: Switch to a strong **frontend / full-stack role**
+- 🎯 Goal: Go deep into **microsoft architecture**
 
 ---
 
@@ -28,7 +28,6 @@
 - 🧩 **Employee Dashboard** – React + JS
 - 💰 **Investment Calculator** – React
 - 🧪 **Teams Toolkit Samples** – Tabs, Bots, ME
-- 🧠 **25 Days Blind DSA Challenge**
 
 👉 Check pinned repos below ⬇️
 
